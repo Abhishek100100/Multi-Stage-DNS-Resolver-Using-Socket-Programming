@@ -126,7 +126,7 @@ echo "1:google.com" | nc 127.0.0.1 8080
 
 ---
 
-## 🧪 Load Testing
+## Load Testing
 
 ### Run 100 Concurrent Clients Test
 ```
@@ -191,7 +191,7 @@ cat database_mappings.txt
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Multi-Stage-DNS-Resolver-Using-Socket-Programming/
@@ -205,13 +205,6 @@ Multi-Stage-DNS-Resolver-Using-Socket-Programming/
 ├── proxy_cache.txt
 ├── test_100_clients.sh
 ```
-
----
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](../two-level-cache-controller/LICENSE) file for details.
-
----
 ## 📚 Technical References
 
 - [RFC 1035](https://tools.ietf.org/html/rfc1035) - Domain Names Implementation
