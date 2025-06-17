@@ -9,7 +9,7 @@ A high-performance 2-tier DNS resolution system implemented in C++ using socket 
 
 ---
 
-## 🚀 Features
+## Features
 
 - **2-Tier Architecture**: Client → Proxy → DNS Server communication model
 - **Intelligent Caching**: Proxy-layer caching reduces DNS server load
@@ -20,7 +20,7 @@ A high-performance 2-tier DNS resolution system implemented in C++ using socket 
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
@@ -39,7 +39,7 @@ A high-performance 2-tier DNS resolution system implemented in C++ using socket 
 
 ---
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 - **C++ Compiler**: GCC 4.8+ or Clang 3.3+ with C++11 support
 - **Operating System**: Linux or macOS
@@ -62,7 +62,7 @@ brew install netcat
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1. **Clone the Repository**
 ```
@@ -83,7 +83,7 @@ ls -la dns* proxy*
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Start the DNS Server
 ```
@@ -102,7 +102,7 @@ ls -la dns* proxy*
 
 ---
 
-## 📋 Usage Examples
+##  Usage Examples
 
 ### Domain to IP Resolution
 ```
@@ -145,7 +145,7 @@ Average response time: XXms
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Database Configuration ([database_mappings.txt](database_mappings.txt))
 ```
@@ -169,7 +169,7 @@ amazon.com 176.32.103.205
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 **"Address already in use" Error**
 ```
@@ -217,5 +217,3 @@ This project is licensed under the MIT License - see the [LICENSE](../two-level-
 - [RFC 1035](https://tools.ietf.org/html/rfc1035) - Domain Names Implementation
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [C++ Concurrency in Action](https://www.manning.com/books/c-plus-plus-concurrency-in-action)
-
----
