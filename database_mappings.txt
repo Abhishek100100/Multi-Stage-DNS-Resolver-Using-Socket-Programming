@@ -1,0 +1,6 @@
+google.com 142.250.191.14
+facebook.com 157.240.241.35
+github.com 140.82.114.3
+stackoverflow.com 151.101.1.69
+youtube.com 172.217.164.78
+amazon.com 176.32.103.205
