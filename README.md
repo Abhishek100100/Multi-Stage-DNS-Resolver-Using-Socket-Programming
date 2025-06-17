@@ -66,7 +66,7 @@ brew install netcat
 
 1. **Clone the Repository**
 ```
-git clone <your-repo-url>
+git clone https://github.com/Abhishek100100/Multi-Stage-DNS-Resolver-Using-Socket-Programming.
 cd Multi-Stage-DNS-Resolver-Using-Socket-Programming
 ```
 
